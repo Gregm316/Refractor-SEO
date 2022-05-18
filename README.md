@@ -1,4 +1,5 @@
 # Refractor-SEO-HW
+This is the landing page for Horiseon Marketing Agency. Theyspecialize in SEO, Online reputation management and social media marketing.
 
  https://gregm316.github.io/Refractor-SEO-HW/
 
